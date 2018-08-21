@@ -21,10 +21,7 @@ git clone https://github.com/cbrown1/calibrate.git
 
 ### Compile and install:
 
-```bash
-python setup.py build
-sudo python setup.py install
-```
+No setup.py provided, as it is just one file.
 
 ## Usage
 ```bash
